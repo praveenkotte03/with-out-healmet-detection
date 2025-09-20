@@ -1,0 +1,5 @@
+{
+  "name": " Helmet Violation Detection AI",
+  "description": "An AI-powered application to detect motorbike riders without helmets from video footage, extract license plates using OCR, and generate violation challans.",
+  "requestFramePermissions": []
+}
